@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\UI_Graficos_Barra_Pastel.props" />
+</Project>
